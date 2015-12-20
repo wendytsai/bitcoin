@@ -178,6 +178,9 @@ bool AppInit(int argc, char* argv[])
 
 int main(int argc, char* argv[])
 {
+
+    printf("wendy's first github update\n");
+    
     SetupEnvironment();
 
     // Connect bitcoind signal handlers
